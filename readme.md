@@ -6,6 +6,11 @@ this repository does not contain zonide source (as it would be impossible to pro
 
 </div>
 
+## price
+* robux: 1000 / 5$ roblox giftcard.
+* steam: 5 USD gift-card `GLOBAL`.
+* v3rm: elite (buyer will receive 4 keys) (will also count as donation).
+
 ## features
 <details>
 <summary>SCP: Roleplay</summary>
