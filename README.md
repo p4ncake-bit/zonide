@@ -47,7 +47,7 @@ this repository does not contain zonide source (as it would be impossible to pro
 </details>
 
 <details>
-<summary>Vectus ( open source )</summary>
+<summary>Vectus</summary>
 
 ```ini
 [humanoid]
