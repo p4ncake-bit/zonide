@@ -15,6 +15,7 @@ this repository does not contain zonide source (as it would be impossible to pro
     infinite jump.
     walkspeed / jump-power changers.
     noclip.
+    teleports.
     
 [combat]
     [⚙️] silent aimbot.
@@ -57,6 +58,37 @@ this repository does not contain zonide source (as it would be impossible to pro
 
 [server]
     xp-farm.
+```
+
+</details>
+
+<details>
+<summary>Isle</summary>
+
+```ini
+[humanoid]
+    walkspeed changer.
+    float.
+    random-tp.
+    inf-oxygen.
+    [⚙️] location-tp.
+        [⚠️] working using random-tp and slow.
+        
+        [🏝️] locations:
+            warehouse, docks, campsite a, campsite b,
+            bridge, arches, bungalows, cliff runaway,
+            circle, mountain cave entrance, cove,
+            cliffside, generators, grand-lake,
+            grass-crossing, hangar, hillside,
+            impact-zone, light-house, mineshaft,
+            mountain top, oasis, observatory, plane-crash,
+            radio tower, ravine, plane shed, spider peach,
+            impact coastline, villa front, watch-tower.
+[combat]
+    [⚙️] aim-assist
+        fov.
+    
+    semi-godmode.
 ```
 
 </details>
