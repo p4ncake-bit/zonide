@@ -6,7 +6,7 @@ this repository does not contain zonide source (as it would be impossible to pro
 
 </div>
 
-## Features
+## features
 <details>
 <summary>SCP: Roleplay</summary>
 
@@ -92,3 +92,6 @@ this repository does not contain zonide source (as it would be impossible to pro
 ```
 
 </details>
+
+## future plans:
+* release
