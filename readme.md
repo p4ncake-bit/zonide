@@ -46,7 +46,7 @@ this repository does not contain zonide source (as it would be impossible to pro
         aim-fov (0, 365) (number value)
     
 [server]
-    skin-changer.
+    weapon skin-changer.
     server-crasher.
 ```
 
