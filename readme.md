@@ -11,6 +11,7 @@ this repository does not contain zonide source (as it would be impossible to pro
 * steam: 5 USD gift-card `GLOBAL`.
 
 ## features
+#### features may add overtime, considering that this is alpha.
 <details>
 <summary>SCP: Roleplay</summary>
 
