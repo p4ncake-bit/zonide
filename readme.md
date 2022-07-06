@@ -6,6 +6,9 @@ this repository does not contain zonide source (as it would be impossible to pro
 
 </div>
 
+## privacy
+* we log your syn-signature, client-id, discord-id, for security purposes.
+
 ## price
 * robux: 1000 / 5$ roblox giftcard.
 * steam: 5 USD gift-card `GLOBAL`.
