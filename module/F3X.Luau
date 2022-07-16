@@ -1,3 +1,9 @@
+--
+--    (\ /)       ~ p4ncake [author]
+--    ( . .)      ~ f3x-api [package]
+--    c(")(")     ~ 0.01    [version]
+--
+
 -- @-->--- Declaring variables:
 local Players = game:GetService("Players");
 local RunService = game:GetService("RunService");
